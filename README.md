@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Jonathan Grinstead</h1>
 <h3 align="center">A passionate full-stack developer from the UK.</h3>
 
-- 🔭 I’m currently working on **My potfolio**
+- 🔭 I’m currently working on **My portfolio**
 
 - 🌱 I’m currently learning **React**
 
