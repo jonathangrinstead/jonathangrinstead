@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.JS**
 
-- 👨‍💻 All of my projects are available at www.jonathangrinstead.dev
+- 👨‍💻 All of my projects are available at jonathangrinstead.dev
 
 - 💬 Ask me about **Ruby on Rails**
 
