@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **My portfolio**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vue.JS**
 
-- 👨‍💻 All of my projects are available at [www.jonathangrinstead.dev(currently-offline)](www.jonathangrinstead.dev(currently-offline))
+- 👨‍💻 All of my projects are available at www.jonathangrinstead.dev
 
 - 💬 Ask me about **Ruby on Rails**
 
