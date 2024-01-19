@@ -1,13 +1,11 @@
 <h1 align="center">Hey 👋, I'm Jonathan Grinstead</h1>
 <h3 align="center">A passionate full-stack developer from the UK.</h3>
 
-- 🔭 I’m currently working on **My portfolio**
+- 🔭 I’m currently working on **Feast**
 
-- 🌱 I’m currently learning **Vue.JS**
+- 🌱 I’m currently learning **Vue.JS + Tailwind**
 
 - 👨‍💻 All of my projects are available at https://jonathangrinstead.dev
-
-- 💬 Ask me about **Ruby on Rails**
 
 - 📫 How to reach me **jonathangrinstead.design@gmail.com**
 
