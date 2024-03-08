@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Feast**
 
-- 🌱 I’m currently learning **Vue.JS + Tailwind**
+- 🌱 I’m currently learning **React + Tailwind**
 
 - 👨‍💻 All of my projects are available at https://jonathangrinstead.dev
 
