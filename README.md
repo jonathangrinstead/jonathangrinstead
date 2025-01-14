@@ -1,13 +1,11 @@
 <h1 align="center">Hey 👋, I'm Jonathan Grinstead</h1>
 <h3 align="center">A passionate full-stack developer from the UK.</h3>
 
-- 🔭 I’m currently working on **Feast**
-
 - 🌱 I’m currently learning **React + Tailwind**
 
 - 👨‍💻 All of my projects are available at https://jonathangrinstead.dev
 
-- 📫 How to reach me **jonathangrinstead.design@gmail.com**
+- 📫 How to reach me **jonathangrinstead@hey.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
