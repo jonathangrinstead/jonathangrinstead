@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Jonny Grinstead</h1>
+<h1 align="center">Hey 👋, I'm Jonathan Grinstead</h1>
 <h3 align="center">Ruby on Rails developer from the UK 💎</h3>
 
 - 💼 Currently working as a **Ruby on Rails Software Developer** at [mmtm](https://mmtm.io)
